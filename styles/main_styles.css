@@ -44,13 +44,13 @@
 
 .flecha {
 	animation: arrow 1s ease-in-out infinite;
-	font-size: 20px !important;
+	font-size: 400px !important;
 
 }
 
 .flecha:hover {
 	animation: arrow 1s ease-out infinite !important;
-	color: #229bf4 !important;
+	color: #fcfcfc !important;
 }
 
 @keyframes arrow {
