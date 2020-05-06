@@ -59,7 +59,8 @@ section {
 
 .logo {
 
-  opacity: 100;
+  opacity: .6;
+  border-radius: 25px;
 }
 
 body {
