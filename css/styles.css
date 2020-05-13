@@ -59,9 +59,10 @@ section {
 
 .logo {
 
-  opacity: .6;
-  border-radius: 25px;
+  transform: rotateY(130deg);
+
 }
+
 
 body {
   margin: 0;
