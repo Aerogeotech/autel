@@ -57,13 +57,15 @@ section {
   display: block;
 }
 
+.dgac {
+  opacity: 0.5;
+}
+
 .logo {
 
   width: 200px;
   height: 200px;
-  background: red;
-  -webkit-animation: fadeinout 4s linear forwards;
-  animation: fadeinout 4s linear forwards;
+
 }
 
 @-webkit-keyframes fadeinout {
