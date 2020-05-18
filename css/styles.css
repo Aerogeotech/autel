@@ -57,6 +57,10 @@ section {
   display: block;
 }
 
+.term {
+  text-align: center;
+}
+
 .dgac {
   opacity: 0.5;
 }
