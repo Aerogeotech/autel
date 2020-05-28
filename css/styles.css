@@ -83,8 +83,8 @@ section {
   border: 2px solid red;
   border-radius: 25px;
 
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 100px;
 
 
 }
@@ -10704,7 +10704,7 @@ button.bg-dark:focus {
 }
 
 .font-weight-light {
-  font-weight: 300 !important;
+  font-weight: 200 !important;
 }
 
 .font-weight-lighter {
@@ -10712,11 +10712,11 @@ button.bg-dark:focus {
 }
 
 .font-weight-normal {
-  font-weight: 400 !important;
+  font-weight: 200 !important;
 }
 
 .font-weight-bold {
-  font-weight: 700 !important;
+  font-weight: 200 !important;
 }
 
 .font-weight-bolder {
