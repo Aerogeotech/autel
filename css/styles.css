@@ -1,9 +1,13 @@
 @charset "UTF-8";
 
-
+h4{
+  text-align: center;
+}
 
 
 button {
+  text-align: center;
+  position:center;
   background-color: rgb(223, 107, 12);
   border: none;
   color: white;
@@ -19,6 +23,7 @@ button {
 
 
 button {
+  position:center;
   transition-duration: 0.4s;
   background-color: white; 
   color: black; 
@@ -26,6 +31,7 @@ button {
 }
 
 button:hover {
+  position:center;
   background-color: rgb(223, 107, 12);
   color: white;
 }
